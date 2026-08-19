@@ -11,5 +11,7 @@ public class AlertLevelServiceApp {
 
         // TODO (Tracks the hospital Emergency Status (0-8, 8 = full Code Blue).)
         // Add domain endpoints for alert-level-service here.
+
+
     }
 }
